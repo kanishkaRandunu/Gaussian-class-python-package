@@ -1,0 +1,1 @@
+This packages can be used to use to add binomial and gaussian distributions together
